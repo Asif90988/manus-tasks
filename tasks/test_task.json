@@ -1,1 +1,6 @@
+{
+  "id": "test_task_001",
+  "command": "echo 'Hello from Manus task runner!' > test_output.txt",
+  "working_dir": "~/manus-automation/manus-tasks"
+}
 
