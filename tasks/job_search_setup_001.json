@@ -1,1 +1,6 @@
+{
+  "id": "job_search_setup_001",
+  "command": "mkdir -p ~/job_search_bot && pip3 install requests beautifulsoup4 pandas selenium webdriver-manager python-dotenv --user",
+  "working_dir": "~"
+}
 
